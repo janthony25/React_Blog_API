@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogReact")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6668573c2701add4055dd78519d73c42206a5c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd3ad3dd30bcb18edd82bd3de6d2ba80adbd7d28")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogReact")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlogReact")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
